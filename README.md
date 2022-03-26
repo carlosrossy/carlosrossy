@@ -1,6 +1,6 @@
 ### 🛠 About me
 
-#### "Impossible Is My Specialty" ❤️
+#### "The impossible is only a matter of opinion" ❤️
 
 <p>
   <em>
