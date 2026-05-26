@@ -1,41 +1,86 @@
-### 🛠 About me
+<h1 align="center">Olá, eu sou Carlos Eduardo 👋</h1>
 
-#### "The impossible is only a matter of opinion" ❤️
-
-<p>
-  <em>
-   Student of Software Engineering at the Institute of <a href="https://icet.ufam.edu.br/"> <b> Exact Sciences and Technology - ICET / UFAM.</b></a><br>
-  </em>  <br>
-1. <b>Software Enginner</b>;<br>
-2. <b>Mobile developer</b>;<br> 
-3. <b>Web Development</b>;<br>
+<p align="center">
+  <em>"The impossible is only a matter of opinion" ❤️</em>
 </p>
 
-### 👥 Connect with me:
+---
+
+### 👨‍💻 Sobre mim
+
+Engenheiro de Software na **[Bemol Digital](https://www.bemoldigital.com.br/)**, formado em Engenharia de Software pelo **ICET / UFAM** e pós-graduado em **Gestão Ágil e Desenvolvimento de Software**.
+
+- 💼 Atuo no desenvolvimento de aplicações **Web e Mobile** com foco em arquitetura, qualidade e automação
+- 🤖 Trabalho com **IA**, **automações com n8n** e integrações inteligentes
+- 🏗️ Apaixonado por **arquitetura de software**, **boas práticas** e **testes**
+- 📚 Sempre estudando algo novo
+
+---
+
+### 🚀 Stack & Especialidades
+
+**Frontend & Mobile**
 <p align="left">
-<a href="https://www.instagram.com/carlosedu.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/carlos-eduardo-996672222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-<a href = "mailto:carlospintorossy07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
 </p>
 
-### ⚡ Technologies
+**Mobile**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="48"/>
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
+</p>
 
-These are some of the technologies and tools that I work with:
+**Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,python" />
+</p>
 
-  <div style="display: inline_block">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Carlos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carlos-dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Carlos-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-</div><br>
- 
-<div>
-  <a href="https://github.com/carlosrossy">
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=carlosrossy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrossy&layout=compact&langs_count=7&theme=algolia" />
+**Cloud, DevOps & Automação**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,git,github" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/IA_%2F_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" height="48"/>
+</p>
+
+**Qualidade & Arquitetura**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge" height="48"/>
+  <img src="https://img.shields.io/badge/SOLID-1572B6?style=for-the-badge" height="48"/>
+</p>
+
+---
+
+### 👥 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-996672222/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/carlosedu.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:carlospintorossy07@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosrossy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrossy&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
 </div>
-  
-  ![Snake animation](https://github.com/carlosrossy/carlosrossy/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carlosrossy&theme=algolia&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/carlosrossy/carlosrossy/output/github-contribution-grid-snake.svg)
