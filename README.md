@@ -71,12 +71,21 @@ Engenheiro de Software na **[Bemol Digital](https://www.bemoldigital.com.br/)**,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosrossy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosrossy&layout=compact&langs_count=8&theme=algolia&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/carlosrossy/carlosrossy/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=carlosrossy&theme=algolia&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/carlosrossy/carlosrossy/main/profile-summary-card-output/nord_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/carlosrossy/carlosrossy/main/profile-summary-card-output/nord_dark/4-productive-time.svg" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/carlosrossy/carlosrossy/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/carlosrossy/carlosrossy/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=carlosrossy&theme=nord&hide_border=true" />
 </div>
 
 ---
